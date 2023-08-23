@@ -1,0 +1,1 @@
+This is a presentation of some machine learning models buildt with pytorch for binary classification and multi-class classification. The project is buildt with Google Colab (free GPU!) however, training steps are not computationally intensive so could run on cpu.
